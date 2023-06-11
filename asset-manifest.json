@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db69a568.css",
+    "main.js": "/static/js/main.08c9bb47.js",
+    "static/js/787.07fbe620.chunk.js": "/static/js/787.07fbe620.chunk.js",
+    "static/media/padmashree.jfif": "/static/media/padmashree.c40b0f25612ef2ccff6c.jfif",
+    "static/media/slider.jpg": "/static/media/slider.844eb7176ffd1a264cdb.jpg",
+    "static/media/fontawesome-webfont3295.svg?v=4.5.0": "/static/media/fontawesome-webfont3295.3fe9d36ed88cf3aeea1f.svg",
+    "static/media/fontawesome-webfont3295.ttf?v=4.5.0": "/static/media/fontawesome-webfont3295.bfcf94e00816b7cfccc7.ttf",
+    "static/media/fontawesome-webfont3295.woff?v=4.5.0": "/static/media/fontawesome-webfont3295.b09f4960e5ffa8e0ef92.woff",
+    "static/media/fontawesome-webfont3295.eot?v=4.5.0": "/static/media/fontawesome-webfont3295.7f77840e46fa6103b494.eot",
+    "static/media/fontawesome-webfontd41d.eot": "/static/media/fontawesome-webfontd41d.7f77840e46fa6103b494.eot",
+    "static/media/fontawesome-webfont3295.woff2?v=4.5.0": "/static/media/fontawesome-webfont3295.af6df524c7d052f637e3.woff2",
+    "static/media/page-banner.jpg": "/static/media/page-banner.34ec1e12d08832ccc838.jpg",
+    "static/media/peopule-say-bg.jpg": "/static/media/peopule-say-bg.a0bb8e7f0e26a5020b15.jpg",
+    "static/media/lato-medium-webfont.woff": "/static/media/lato-medium-webfont.fdd452c6a9d376e97f30.woff",
+    "static/media/finish-project.jpg": "/static/media/finish-project.6f66d82c4f5abf065b3b.jpg",
+    "static/media/gallery-six.jpg": "/static/media/gallery-six.5f0744791103efa5d447.jpg",
+    "static/media/lato-medium-webfont.woff2": "/static/media/lato-medium-webfont.d883338bb02d77b6e777.woff2",
+    "static/media/404-bg.jpg": "/static/media/404-bg.5c1e51743ecfdf96af89.jpg",
+    "static/media/logo.png": "/static/media/logo.e61fc3ac58bb2ac6b3c3.png",
+    "static/media/count-down-bg.jpg": "/static/media/count-down-bg.ef072d7755277f4e5477.jpg",
+    "static/media/help-us-bg.jpg": "/static/media/help-us-bg.c7546d5447bc2d66363b.jpg",
+    "static/media/couses-three.jpg": "/static/media/couses-three.e196ce830e848407dfc8.jpg",
+    "static/media/couses-two.jpg": "/static/media/couses-two.d119cf8bcb1a1c03dd5e.jpg",
+    "static/media/couses-one.jpg": "/static/media/couses-one.e81949a2b2ca3291dba2.jpg",
+    "static/media/AjaxLoader.html": "/static/media/AjaxLoader.6bfea44d27c13eeca3b1.html",
+    "static/media/bg-3.html": "/static/media/bg-3.6bfea44d27c13eeca3b1.html",
+    "static/media/grabbing.html": "/static/media/grabbing.6bfea44d27c13eeca3b1.html",
+    "index.html": "/index.html",
+    "main.db69a568.css.map": "/static/css/main.db69a568.css.map",
+    "main.08c9bb47.js.map": "/static/js/main.08c9bb47.js.map",
+    "787.07fbe620.chunk.js.map": "/static/js/787.07fbe620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db69a568.css",
+    "static/js/main.08c9bb47.js"
+  ]
+}
