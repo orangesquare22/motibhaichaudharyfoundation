@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/motibhaichaudharyfoundation/static/css/main.3d845869.css",
-    "main.js": "/motibhaichaudharyfoundation/static/js/main.fd77fe09.js",
+    "main.js": "/motibhaichaudharyfoundation/static/js/main.3958d2b0.js",
     "static/js/787.07fbe620.chunk.js": "/motibhaichaudharyfoundation/static/js/787.07fbe620.chunk.js",
     "static/media/padmashree.jfif": "/motibhaichaudharyfoundation/static/media/padmashree.c40b0f25612ef2ccff6c.jfif",
     "static/media/slider.jpg": "/motibhaichaudharyfoundation/static/media/slider.844eb7176ffd1a264cdb.jpg",
@@ -29,11 +29,11 @@
     "static/media/bg-3.html": "/motibhaichaudharyfoundation/static/media/bg-3.6bfea44d27c13eeca3b1.html",
     "static/media/grabbing.html": "/motibhaichaudharyfoundation/static/media/grabbing.6bfea44d27c13eeca3b1.html",
     "main.3d845869.css.map": "/motibhaichaudharyfoundation/static/css/main.3d845869.css.map",
-    "main.fd77fe09.js.map": "/motibhaichaudharyfoundation/static/js/main.fd77fe09.js.map",
+    "main.3958d2b0.js.map": "/motibhaichaudharyfoundation/static/js/main.3958d2b0.js.map",
     "787.07fbe620.chunk.js.map": "/motibhaichaudharyfoundation/static/js/787.07fbe620.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d845869.css",
-    "static/js/main.fd77fe09.js"
+    "static/js/main.3958d2b0.js"
   ]
 }
